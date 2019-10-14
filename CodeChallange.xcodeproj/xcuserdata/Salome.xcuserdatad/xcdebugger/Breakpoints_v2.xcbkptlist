@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DBFAB975-4C12-438F-941D-F1B7212B80EE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95F26899-B7B7-463D-B168-4D01D86F3AA6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeChallange/CVViewController/Model/Services.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "loadJson(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42E5E0A1-C615-4C81-A234-F995A578B97F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeChallange/CVViewController/Model/Services.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "loadJson(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCBB9C79-D35D-4D67-A179-27A5D693C31F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeChallange/CVViewController/CVViewControllerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "fetchData(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FCBB9C79-D35D-4D67-A179-27A5D693C31F - 3086d52830e8fd18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeChallange.CVViewControllerViewModel.fetchData(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "CodeChallange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Salome/Workspace/CodeChallange/CodeChallange/CVViewController/CVViewControllerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  uuid = "FCBB9C79-D35D-4D67-A179-27A5D693C31F - d77ff80eb6fb063d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;CodeChallange.Response&gt;) -&gt; () in CodeChallange.CVViewControllerViewModel.fetchData(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "CodeChallange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Salome/Workspace/CodeChallange/CodeChallange/CVViewController/CVViewControllerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "199">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D71ABFCE-0D81-4F75-AE09-37EFD6D17B44"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeChallange/CVViewController/CVViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D71ABFCE-0D81-4F75-AE09-37EFD6D17B44 - fbb19c77683523e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeChallange.CVViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CodeChallange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Salome/Workspace/CodeChallange/CodeChallange/CVViewController/CVViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1388">
+               </Location>
+               <Location
+                  uuid = "D71ABFCE-0D81-4F75-AE09-37EFD6D17B44 - ef022ad5a5ce5c18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CodeChallange.CVViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CodeChallange"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Salome/Workspace/CodeChallange/CodeChallange/CVViewController/CVViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E483CA46-FBA1-4AEF-87CA-480711CDEA0A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeChallange/CVViewController/CVViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
